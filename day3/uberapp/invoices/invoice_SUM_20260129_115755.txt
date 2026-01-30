@@ -1,0 +1,13 @@
+UBER APP - INVOICE
+==============================
+Rider    : SUM
+Pickup   : IDPL
+Drop     : MEDCHAL
+Route    : ('IDPL', 'MEDCHAL')
+Driver   : Arun
+Vehicle  : TS16EB-8343
+Status   : COMPLETED
+Distance : 5 km
+Fare     : ₹100.0
+==============================
+Thank you for riding with us!

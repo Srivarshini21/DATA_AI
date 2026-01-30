@@ -1,0 +1,5 @@
+welcome to python
+learning file handling
+file handling is easy
+file handling is easy
+file handling is easy

@@ -1,0 +1,13 @@
+UBER APP - INVOICE
+==============================
+Rider    : SAM
+Pickup   : Ameerpet
+Drop     : MEDCHAL
+Route    : ('Ameerpet', 'MEDCHAL')
+Driver   : Arun
+Vehicle  : TS16EB-8343
+Status   : COMPLETED
+Distance : 9 km
+Fare     : ₹148.0
+==============================
+Thank you for riding with us!

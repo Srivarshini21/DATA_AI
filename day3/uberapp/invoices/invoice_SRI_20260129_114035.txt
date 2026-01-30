@@ -1,0 +1,13 @@
+UBER APP - INVOICE
+==============================
+Rider    : SRI
+Pickup   : Ameerpet
+Drop     : Begumpet
+Route    : ('Ameerpet', 'Begumpet')
+Driver   : Arun
+Vehicle  : TN-09-1234
+Status   : COMPLETED
+Distance : 5 km
+Fare     : ₹100.0
+==============================
+Thank you for riding with us!
